@@ -1,5 +1,6 @@
-Salamander Species Identification: Hypothesis Testing
-Overview
+**Salamander Species Identification: Hypothesis Testing**
+
+**Overview**
 This project applies hypothesis testing to assist a laboratory in identifying new species of salamanders. The goal is to determine whether a sample of salamanders is from a population with a mean length smaller than a known species, based on historical data. 
 
 **The data**
