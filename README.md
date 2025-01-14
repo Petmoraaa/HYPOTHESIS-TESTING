@@ -2,7 +2,7 @@ Salamander Species Identification: Hypothesis Testing
 Overview
 This project applies hypothesis testing to assist a laboratory in identifying new species of salamanders. The goal is to determine whether a sample of salamanders is from a population with a mean length smaller than a known species, based on historical data. 
 
-****The data** **
+**The data**
 The population mean length of a known species of salamander.
 The standard deviation of the known species length.
 The sample mean length of a new salamander sample.
